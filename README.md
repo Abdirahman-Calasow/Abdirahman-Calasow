@@ -23,6 +23,8 @@ I build modern, responsive web applications and enjoy turning ideas into practic
 ### 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/abdiraxman-calasow-19764b3a4)
+[WhatsApp](https://wa.me/252618384352) ·
+[Email](mailto:cabdiraxman18@gmail.com)
 
 ---
 
