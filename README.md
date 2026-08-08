@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Abdirahman Calasow 👋
 
-<!--
-**Abdirahman-Calasow/Abdirahman-Calasow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer | Computer Science Student
 
-Here are some ideas to get you started:
+I build modern, responsive web applications and enjoy turning ideas into practical digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**JavaScript** · **React** · **Tailwind CSS** · **Node.js** · **MySQL** · **Git**
+
+---
+
+### 🚀 Selected Projects
+
+- **E-Baro** — Learning platform
+- **Hanun Ramadan** — Ramadan web application
+- **School Management System** — PHP & MySQL
+
+---
+
+### 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdiraxman-calasow-19764b3a4)
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
