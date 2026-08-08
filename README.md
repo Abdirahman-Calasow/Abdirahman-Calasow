@@ -11,12 +11,11 @@ I build modern, responsive web applications and enjoy turning ideas into practic
 **JavaScript** · **React** · **Tailwind CSS** · **Node.js** · **MySQL** · **Git**
 
 ---
-
 ### 🚀 Selected Projects
 
-- **E-Baro** — Learning platform
-- **Hanun Ramadan** — Ramadan web application
-- **School Management System** — PHP & MySQL
+- [**Online Shopping System**](https://github.com/Abdirahman-Calasow/online_shoping_-saystem) — E-commerce web application
+- [**E-Baro Learning Platform**](https://github.com/Abdirahman-Calasow/E-baro-learning-palatform) — Online learning platform
+- [**Memory Card Game**](https://github.com/Abdirahman-Calasow/MEMORY-CARD-GAME) — Interactive browser game
 
 ---
 
